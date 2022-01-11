@@ -1,0 +1,63 @@
+.idea
+<div class="col-3">
+    <div class="contact-address">
+
+        <div class="contact-item">
+            <div class="contact-logo">
+                <span class="icon-location-svgrepo-com"></span>
+            </div>
+            <div class="contact-data">
+                <p class="contact-data-desc">A108 Adam Street<br>New York, NY 535022</p>
+            </div>
+        </div>
+        <div class="contact-item">
+            <div class="contact-logo">
+                <span class="icon-new-message-envelope-svgrepo-com"></span>
+            </div>
+            <div class="contact-data">
+                <p class="contact-data-desc">info@example.com</p>
+            </div>
+        </div>
+        <div class="contact-item">
+            <div class="contact-logo">
+                <span class="icon-mobile-svgrepo-com"></span>
+            </div>
+            <div class="contact-data">
+                <p class="contact-data-desc">+1 5589 55488 55s</p>
+            </div>
+        </div>
+
+
+        <div class="social-links">
+            <a href="#" class="contact-social">
+                <span class="icon-twitter-logo-shape-svgrepo-com"></span>
+            </a>
+            <a href="#" class="contact-social">
+                <span class="icon-facebook-logo-bold-svgrepo-com"></span>
+            </a>
+            <a href="#" class="contact-social">
+                <span class="icon-instagram-svgrepo-com"></span>
+            </a>
+            <a href="#" class="contact-social">
+                <span class="icon-instagram-svgrepo-com"></span>
+            </a>
+            <a href="#" class="contact-social">
+                <span class="icon-linkedin-svgrepo-com"></span>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="col-5">
+    <form class="contact-form">
+        <input class="message" type="text" placeholder="Your Name">
+
+        <input class="message" type="text" placeholder="Your Email">
+
+        <input class="message" type="text" placeholder="Subject">
+
+        <textarea class="form-message" name="text" placeholder="Message"></textarea>
+
+        <button class="contact-btn" type="submit">Send Message</button>
+    </form>
+
+</div>
