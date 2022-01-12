@@ -392,29 +392,17 @@ body {
     margin-bottom: 50px;
 
 }
-
+.team-card .bx{
+    font-size: 25px;
+}
 .social-icon {
     color: #999999;
-    font-size: 18px;
+    font-size: 21px;
     margin-right: 5px;
     text-decoration: none;
 }
 
-.twitter {
-    font-size: 20px;
-}
 
-.facebook {
-    font-size: 20px;
-}
-
-.instagram {
-    font-size: 20px;
-}
-
-.linkedin {
-    font-size: 20px;
-}
 
 .social-icon:hover {
     color: #2dc997;
